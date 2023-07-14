@@ -1,0 +1,7 @@
+.propImg{
+    height: 250px;
+}
+
+.shadow {
+    box-shadow: .5rem 1rem rgba(black, .15);
+}
